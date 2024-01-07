@@ -28,7 +28,7 @@ This code extravaganza is happening at the prestigious Govt Engineering College,
 
 ## 🚀 Connect with Me
 
-- [##Telegram](https://t.me/Youcringemeout)
+## - [**Telegram**](https://t.me/Youcringemeout)
 
 Feel free to drop me a message, connect on social media, or explore the code together. Let's make coding a fantastic journey! 🚀
 
